@@ -1,0 +1,609 @@
+count,n-gram,frequency,a1,a2,a3,a4,a5,a6,a7,a8,a9,a10
+1,cartel,16379,-1,-1,-1,-1,-1,-1,-1,0,-1,-1
+2,fined,9666,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+3,fines,8812,-1,-1,-1,-1,0,0,-1,0,-1,0
+4,competition,5857,1,1,1,1,1,1,1,1,1,1
+5,prices,5476,0,0,0,0,0,0,0,0,0,0
+6,market,4308,0,0,0,0,0,0,0,0,0,0
+7,price,3818,0,0,0,0,0,0,0,0,0,0
+8,cartels,3138,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+9,fixing,3043,-1,0,-1,-1,0,0,0,0,-1,0
+10,pay,2994,0,0,-1,0,0,0,0,0,0,0
+11,imposed,2971,-1,0,-1,-1,-1,-1,-1,-1,-1,-1
+12,decision,2916,0,0,-1,0,0,0,0,0,0,0
+13,investigation,2864,0,0,-1,0,0,0,0,0,0,0
+14,information,2754,0,0,0,0,0,0,0,0,0,0
+15,commissioner,2603,0,0,0,0,0,0,1,0,0,0
+16,used,2427,0,0,0,0,0,0,-1,0,0,-1
+17,statement,2333,0,0,0,0,-1,0,0,0,0,0
+18,received,2311,0,0,0,0,0,0,1,1,0,0
+19,involved,2233,0,0,-1,0,0,0,0,0,0,0
+20,pricefixing,2076,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+21,commissions,2036,-1,0,0,-1,0,-1,-1,0,0,-1
+22,appeal,1990,1,1,1,1,1,1,1,1,1,1
+23,antitrust,1967,0,0,0,0,0,0,0,0,0,0
+24,wednesday,1955,0,0,0,0,0,0,0,1,0,0
+25,percent,1916,0,0,0,0,0,0,0,0,0,0
+26,part,1901,0,0,0,0,0,0,0,0,0,0
+27,rules,1862,0,0,0,0,0,0,0,0,0,0
+28,firms,1769,0,0,0,0,0,0,0,0,0,0
+29,including,1687,0,0,0,0,0,0,0,0,0,0
+30,industry,1680,0,0,0,0,0,0,0,0,0,0
+31,immunity,1651,1,1,1,1,1,1,1,1,1,1
+32,largest,1640,0,1,0,0,0,0,0,0,0,0
+33,illegal,1625,-1,-1,-1,-1,-1,0,-1,-1,-1,-1
+34,leniency,1599,1,1,1,1,1,1,1,0,1,1
+35,producers,1563,0,0,0,0,0,0,0,0,0,0
+36,consumers,1557,0,1,0,0,0,0,0,0,0,0
+37,meetings,1554,0,0,-1,0,0,0,0,0,0,0
+38,found,1543,0,0,0,0,0,0,0,0,0,0
+39,reduction,1502,0,-1,1,0,0,0,0,0,0,0
+40,business,1495,0,0,0,0,0,0,0,0,0,0
+41,pounds,1487,0,0,0,0,0,0,0,0,0,0
+42,full,1484,0,1,0,0,0,0,0,0,0,0
+43,biggest,1464,0,1,0,0,-1,0,-1,0,0,-1
+44,regulators,1375,0,0,0,0,-1,-1,0,0,-1,-1
+45,carriers,1362,0,0,0,0,0,0,0,0,0,0
+46,customers,1337,0,0,0,0,0,0,0,0,0,0
+47,took,1314,0,0,0,0,0,0,0,0,0,0
+48,german,1277,0,0,0,0,0,0,0,0,0,0
+49,reduced,1271,0,-1,1,0,0,0,0,0,0,0
+50,dollars,1267,0,0,0,0,0,0,-1,0,0,0
+51,sales,1258,0,1,0,0,0,0,0,0,0,0
+52,brussels,1241,0,0,0,0,0,0,0,0,0,0
+53,penalty,1231,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+54,agreed,1199,0,1,0,0,-1,0,0,0,0,-1
+55,states,1177,0,0,0,0,0,0,0,0,0,0
+56,executive,1175,0,0,0,0,0,0,-1,0,-1,0
+57,economic,1171,0,0,0,0,0,0,1,0,1,0
+58,last,1167,0,0,0,0,0,0,0,0,0,0
+59,operating,1166,0,0,0,0,0,0,0,0,0,0
+60,time,1156,0,0,0,0,0,0,0,0,0,0
+61,yesterday,1144,0,0,0,0,0,0,0,0,0,0
+62,infringement,1091,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+63,set,1090,0,0,0,0,0,0,0,0,0,0
+64,action,1073,0,0,0,0,0,0,0,0,0,0
+65,added,1067,0,1,0,0,0,0,0,0,0,0
+66,behaviour,1047,0,0,0,0,0,0,0,0,0,0
+67,firm,1033,0,0,0,0,0,0,0,0,0,0
+68,practices,1033,0,0,-1,0,0,0,0,0,0,-1
+69,franceklm,1019,0,0,0,0,0,0,0,0,0,0
+70,eight,1008,0,0,0,0,0,0,-1,0,0,0
+71,concerned,1006,0,-1,-1,0,0,0,0,0,0,0
+72,members,983,0,0,0,0,0,-1,-1,0,0,0
+73,settlement,980,1,1,1,1,1,1,1,1,1,1
+74,court,978,0,0,0,0,0,0,0,0,0,0
+75,among,957,0,0,0,0,0,0,0,0,0,0
+76,evidence,956,0,0,0,0,0,0,0,0,0,0
+77,paraffin,943,0,0,0,0,0,0,0,0,0,0
+78,surcharges,934,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+79,several,917,0,0,0,0,0,0,-1,0,0,0
+80,dlrs,911,0,0,0,0,0,0,0,0,0,0
+81,fixed,905,0,0,-1,0,0,0,0,0,0,0
+82,cooperation,889,0,1,0,0,0,0,0,0,0,0
+83,following,888,0,0,0,0,0,0,0,0,0,0
+84,operated,873,0,0,0,0,0,0,0,0,1,1
+85,vitamin,868,0,0,0,0,0,0,0,0,0,0
+86,fix,865,0,1,0,0,0,0,0,0,0,0
+87,since,865,0,0,0,0,0,0,0,0,0,0
+88,makers,862,0,0,0,0,0,0,0,0,0,-1
+89,coordinated,847,0,-1,0,0,0,0,0,0,0,0
+90,agreement,843,0,1,0,0,0,-1,0,0,0,0
+91,cases,836,0,0,0,0,0,0,0,0,0,0
+92,now,833,0,0,0,0,0,0,0,0,0,0
+93,running,823,0,0,0,0,0,0,0,0,0,0
+94,countries,822,0,0,0,0,0,0,0,0,0,0
+95,whistle,822,0,0,0,0,0,0,0,0,0,0
+96,increased,817,0,1,0,0,0,0,0,0,0,0
+97,period,816,0,0,0,0,0,0,0,0,0,0
+98,high,807,0,1,0,0,0,0,0,0,0,0
+99,affected,806,0,0,0,0,0,0,0,0,0,0
+100,well,795,0,1,0,0,0,0,0,0,-1,0
+101,according,784,0,0,0,0,0,0,0,0,0,0
+102,make,782,0,0,0,0,0,0,0,0,0,0
+103,south,779,0,0,0,0,0,0,0,0,0,0
+104,ever,778,0,0,0,0,0,0,0,0,0,0
+105,account,777,0,0,0,0,0,0,0,0,0,0
+106,place,774,0,0,0,0,0,0,0,0,0,0
+107,japanese,772,0,0,0,0,0,0,0,0,0,0
+108,escaped,763,0,1,1,0,0,0,0,0,0,0
+109,production,763,0,1,0,0,0,0,0,0,0,0
+110,mr,762,0,0,0,0,0,0,0,0,0,0
+111,level,757,0,0,0,0,0,0,0,0,0,0
+112,guilty,752,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+113,spokesman,749,0,0,0,0,0,0,-1,0,0,0
+114,however,747,0,0,0,0,0,0,0,0,0,0
+115,major,744,0,1,0,0,0,0,0,-1,0,0
+116,penalties,744,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+117,law,743,0,0,0,0,0,0,0,0,0,0
+118,financial,742,0,0,0,0,0,-1,0,0,0,0
+119,fuel,739,0,0,0,0,0,0,0,0,0,0
+120,repeat,738,0,0,-1,0,0,0,0,0,0,0
+121,groups,737,0,0,0,0,0,0,0,0,0,0
+122,higher,735,0,1,0,0,0,0,0,0,0,0
+123,highest,731,-1,1,0,-1,-1,-1,-1,-1,-1,-1
+124,made,728,0,0,0,0,0,0,0,0,0,-1
+125,germanys,726,0,0,0,0,0,0,0,0,0,0
+126,held,724,0,0,0,0,0,0,0,0,0,0
+127,serious,723,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+128,met,715,0,0,-1,0,0,0,0,-1,-1,0
+129,member,711,0,0,0,0,0,0,0,0,0,0
+130,sector,704,0,0,0,0,0,-1,0,-1,0,-1
+131,must,702,0,0,0,0,0,0,0,0,0,0
+132,record,698,0,0,0,0,0,0,0,0,0,0
+133,second,680,0,0,0,0,0,0,0,0,0,0
+134,take,680,0,0,0,0,0,0,0,0,0,0
+135,within,680,0,0,0,0,0,0,0,0,0,0
+136,notice,678,0,0,0,0,-1,0,-1,0,0,0
+137,already,677,0,0,0,0,0,0,0,0,0,0
+138,authorities,677,0,-1,0,0,0,0,0,0,0,0
+139,businesses,675,0,0,0,0,0,0,0,0,0,0
+140,tuesday,674,0,0,0,0,0,0,0,0,0,0
+141,levied,670,0,0,0,0,0,0,0,0,0,0
+142,manufacturers,663,0,0,0,0,-1,0,0,0,0,0
+143,taken,663,0,0,0,0,0,1,0,0,1,1
+144,covered,662,0,0,0,0,0,0,0,0,0,0
+145,another,660,0,0,0,0,0,0,0,0,0,0
+146,individual,658,0,0,0,0,0,0,-1,0,0,0
+147,annual,655,0,0,0,0,0,0,0,0,0,0
+148,given,655,0,0,0,0,-1,0,0,-1,0,0
+149,cooperated,651,1,1,0,1,1,1,1,1,1,1
+150,amount,642,0,0,0,0,0,0,-1,-1,0,-1
+151,security,642,0,1,0,0,0,0,0,0,0,0
+152,pricing,635,0,0,0,0,0,0,0,0,0,0
+153,eurm,633,0,0,0,0,0,0,0,0,0,1
+154,july,633,0,0,0,0,0,0,0,0,0,0
+155,legal,633,0,0,1,0,0,0,0,0,0,0
+156,started,622,0,0,0,0,0,-1,0,-1,0,0
+157,early,621,0,0,0,0,0,0,0,0,0,0
+158,february,618,0,0,0,0,0,0,0,0,0,0
+159,vitamins,616,0,0,0,0,0,0,0,0,0,0
+160,watchdog,615,0,0,0,0,0,0,0,0,0,0
+161,granted,611,0,0,0,0,0,0,0,0,0,-1
+162,share,608,0,0,0,0,0,0,0,0,0,0
+163,officials,604,0,0,0,0,0,0,0,0,0,0
+164,charges,603,0,-1,0,0,0,0,0,0,0,0
+165,without,593,0,-1,0,0,0,0,0,0,0,0
+166,announced,591,0,0,0,0,0,0,0,0,0,0
+167,slapped,591,0,-1,0,0,-1,0,0,-1,0,-1
+168,existence,587,0,0,0,0,0,0,0,1,0,0
+169,based,586,0,0,0,0,0,0,-1,0,0,0
+170,investigations,586,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+171,activities,584,0,0,-1,0,0,0,0,0,0,0
+172,turnover,581,0,0,0,0,0,0,0,0,0,0
+173,number,580,0,0,0,0,0,0,0,0,0,0
+174,steelmakers,579,0,0,0,0,0,0,0,0,0,0
+175,participating,575,0,0,-1,0,0,0,0,0,0,0
+176,procedure,574,0,0,0,0,0,0,0,0,0,0
+177,worth,574,0,1,0,0,0,0,0,0,0,0
+178,expected,570,0,0,0,0,0,0,0,0,0,0
+179,ordered,567,0,-1,0,0,0,-1,0,0,0,0
+180,sharing,567,0,1,-1,0,0,0,0,0,0,0
+181,sold,562,0,1,0,0,0,0,0,0,0,0
+182,increase,561,0,1,0,0,0,0,0,0,0,0
+183,area,554,0,0,0,0,0,0,0,0,0,0
+184,blew,549,0,0,0,0,0,0,0,0,0,0
+185,construction,547,0,0,0,0,0,0,0,0,0,0
+186,many,547,0,1,0,0,0,0,-1,-1,-1,0
+187,december,543,0,0,0,0,0,0,0,0,0,0
+188,car,542,0,0,0,0,0,0,0,0,0,0
+189,nearly,541,0,0,0,0,0,0,0,0,0,0
+190,subsidiary,540,0,0,0,0,0,0,0,0,0,0
+191,japans,539,0,0,0,0,0,0,0,0,0,0
+192,participated,538,0,0,0,0,0,0,0,0,0,0
+193,programme,537,0,0,0,0,0,0,0,0,0,0
+194,unions,537,0,0,0,0,0,0,0,0,0,0
+195,damages,532,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+196,justice,531,1,1,1,1,0,1,1,1,1,1
+197,exchange,530,0,0,0,0,0,0,0,0,0,0
+198,see,529,0,0,0,0,0,0,0,0,0,0
+199,increases,523,0,1,0,0,0,0,0,0,0,0
+200,policy,523,0,0,0,0,0,0,0,0,0,0
+201,says,523,0,0,0,0,0,0,0,-1,0,0
+202,competition commissioner,2146,0,0,0,0,0,0,-1,0,-1,0
+203,price fixing,1258,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+204,fixing prices,1158,0,-1,-1,0,0,0,0,0,0,0
+205,competition rules,908,0,0,0,0,0,0,0,0,0,0
+206,full immunity,809,1,1,1,1,0,1,1,0,0,0
+207,pricefixing cartel,672,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+208,leniency notice,603,0,0,1,0,0,0,0,0,0,1
+209,blew whistle,547,0,-1,1,0,0,0,0,0,0,0
+210,found guilty,541,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+211,took place,537,0,0,0,0,0,0,0,0,0,0
+212,fixed prices,534,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+213,operating cartel,534,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+214,fix prices,506,-1,-1,-1,-1,0,-1,-1,0,-1,-1
+215,received full,496,0,1,1,0,0,0,0,0,0,0
+216,economic area,492,0,0,0,0,0,0,0,0,0,0
+217,ordered pay,477,-1,-1,0,-1,0,0,-1,0,0,-1
+218,part cartel,462,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+219,received full immunity,462,1,1,1,1,1,1,1,1,1,1
+220,information cartel,456,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+221,imposed fines,455,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+222,fuel security,422,0,0,0,0,0,0,0,0,0,1
+223,wednesday fined,421,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+224,cartel fined,401,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+225,member states,398,0,0,0,0,0,0,0,0,0,0
+226,fines imposed,396,-1,-1,-1,-1,-1,0,0,0,0,-1
+227,leniency programme,396,0,0,1,0,0,0,0,0,0,0
+228,price increases,384,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+229,immunity fines,383,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+230,cartel operated,382,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+231,commissions leniency,366,0,0,0,0,-1,0,0,0,0,0
+232,paraffin mafia,365,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+233,cartel members,363,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+234,cartel fines,360,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+235,fined pounds,359,-1,-1,-1,-1,-1,0,-1,-1,-1,-1
+236,fines totalling,354,-1,-1,-1,-1,-1,-1,0,0,-1,-1
+237,illegal cartel,353,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+238,whistle cartel,342,-1,-1,-1,-1,-1,-1,0,-1,-1,-1
+239,repeat offenders,341,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+240,competition watchdog,338,0,0,1,0,0,-1,0,0,0,0
+241,running cartel,335,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+242,surcharges fuel,327,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+243,surcharges fuel security,327,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+244,ever imposed,320,-1,0,-1,-1,-1,-1,-1,0,-1,-1
+245,provide information,318,0,0,1,0,0,0,0,-1,0,0
+246,repeat offender,304,-1,-1,-1,-1,-1,-1,-1,-1,0,-1
+247,fixing price,302,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+248,animal feed,299,0,0,0,0,0,0,0,0,0,0
+249,fined fined,298,-1,-1,-1,-1,-1,0,-1,0,-1,0
+250,ecu dollars,291,0,0,0,0,0,0,0,0,0,0
+251,taking part,289,0,0,0,0,-1,0,0,0,-1,0
+252,businesses consumers,288,0,0,0,0,0,0,0,0,0,0
+253,cartel behaviour,283,-1,-1,-1,-1,-1,0,0,-1,0,-1
+254,cartel covered,282,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+255,market worth,281,0,1,0,0,0,0,0,0,0,0
+256,antitrust rules,280,0,0,0,0,0,0,0,0,0,0
+257,involved cartel,278,-1,-1,-1,-1,-1,-1,-1,0,-1,-1
+258,market sharing,278,-1,-1,-1,-1,-1,-1,0,0,-1,-1
+259,higher prices,272,-1,-1,-1,-1,0,-1,-1,0,-1,-1
+260,must pay,270,0,-1,-1,0,0,0,0,0,0,0
+261,reduction leniency,269,0,1,1,0,0,0,0,0,0,0
+262,reduction leniency notice,269,1,1,1,1,1,1,1,1,1,1
+263,provide information cartel,268,0,-1,0,0,0,-1,0,0,0,-1
+264,took account,267,0,0,0,0,0,0,0,0,0,0
+265,fuel security without,266,0,0,0,0,0,0,0,0,0,0
+266,security without,266,0,0,0,0,-1,0,0,0,0,0
+267,security without discounts,266,0,0,0,0,0,-1,0,0,0,0
+268,without discounts,266,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+269,detriment businesses,265,-1,-1,-1,-1,-1,-1,-1,0,0,-1
+270,appeal decision,262,0,1,0,0,0,0,0,0,0,0
+271,full immunity fines,260,0,1,1,0,0,1,0,1,1,0
+272,participating cartel,260,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+273,existence cartel,259,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+274,sensitive information,259,0,-1,0,0,0,0,0,0,0,0
+275,coordinated pricing,254,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+276,many major,254,0,1,0,0,0,0,0,0,0,0
+277,fines reduced,253,1,1,1,1,1,1,1,1,1,1
+278,blew whistle cartel,252,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+279,pay fines,252,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+280,confidential information,249,0,-1,0,0,0,0,0,0,0,0
+281,coordinated action,249,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+282,coordinated pricing detriment,249,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+283,deplorable many,249,0,0,-1,0,0,0,0,0,0,0
+284,deplorable many major,249,0,0,-1,0,0,0,0,0,0,0
+285,detriment businesses consumers,249,0,-1,-1,0,-1,-1,-1,-1,-1,0
+286,major coordinated,249,-1,-1,-1,-1,-1,-1,0,-1,-1,-1
+287,major coordinated pricing,249,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+288,many major coordinated,249,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+289,pricing detriment,249,-1,-1,-1,-1,-1,0,-1,0,-1,-1
+290,pricing detriment businesses,249,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+291,level fines,243,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+292,december february,240,0,0,0,0,0,0,0,0,0,0
+293,todays decision,240,0,0,0,0,0,0,0,0,0,0
+294,action surcharges,238,-1,0,-1,-1,-1,-1,-1,-1,-1,-1
+295,action surcharges fuel,238,-1,0,-1,-1,-1,-1,-1,-1,-1,-1
+296,lcd panels,238,0,0,0,0,0,0,0,0,0,0
+297,anticompetitive behaviour,237,-1,-1,-1,-1,0,-1,-1,-1,0,-1
+298,coordinated action surcharges,232,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+299,received largest,231,0,0,0,0,0,0,0,0,0,0
+300,surprise inspections,229,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+301,revealed existence,228,0,0,0,0,0,0,0,0,0,0
+302,commissions investigation,226,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+303,participated cartel,226,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+304,court justice,225,0,0,0,0,0,0,0,0,0,0
+305,serious nature,225,-1,-1,-1,-1,-1,0,-1,-1,-1,-1
+306,vice president,224,0,0,0,0,0,0,0,0,0,0
+307,nature infringement,223,0,-1,-1,0,0,0,0,0,0,0
+308,carriers coordinated,222,-1,0,0,-1,-1,-1,-1,-1,-1,-1
+309,statement objections,221,0,-1,0,0,0,0,0,0,0,0
+310,high fines,218,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+311,market shares,218,0,0,0,0,0,0,0,0,0,1
+312,annual sales,216,0,1,0,0,0,0,0,0,0,0
+313,business practices,216,0,0,0,0,-1,0,0,-1,0,0
+314,serious nature infringement,215,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+315,annual turnover,214,0,0,0,0,0,0,0,0,0,0
+316,cartel cases,214,-1,-1,-1,-1,-1,-1,-1,-1,0,-1
+317,competition policy,213,0,0,0,0,0,0,0,0,0,0
+318,received biggest,210,0,1,0,0,0,0,0,0,0,0
+319,tate lyle,210,0,0,0,0,0,0,-1,0,0,0
+320,minimum prices,209,0,0,0,0,0,0,0,0,0,0
+321,settlement procedure,209,0,1,1,0,-1,-1,0,0,-1,-1
+322,restrictive business,206,0,-1,0,0,0,0,0,0,1,0
+323,restrictive business practices,206,0,-1,-1,0,0,0,0,0,0,0
+324,commissions decision,204,0,0,0,0,0,0,0,0,1,0
+325,fines totaling,204,0,-1,-1,0,0,0,0,0,0,0
+326,competition law,203,0,0,0,0,0,0,0,0,0,0
+327,illegal behaviour,203,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+328,received immunity,202,1,1,1,1,1,1,1,1,1,1
+329,jointly severally,201,0,0,0,0,0,0,0,0,0,0
+330,clear message,200,0,0,0,0,0,0,0,0,0,0
+331,pounds pounds,200,0,0,0,0,0,-1,0,-1,0,-1
+332,commissions leniency programme,199,0,0,0,0,0,0,0,0,0,0
+333,percent annual,199,0,0,0,0,0,0,0,0,0,0
+334,used make,198,0,0,0,0,0,-1,0,0,0,0
+335,carriers coordinated action,197,-1,-1,-1,-1,-1,-1,0,-1,-1,0
+336,commissioner statement,194,0,0,0,0,0,0,0,0,0,0
+337,competition commissioner statement,194,0,0,0,0,0,0,0,0,0,0
+338,cartel activity,192,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+339,regular meetings,191,-1,0,-1,-1,-1,-1,-1,-1,-1,-1
+340,sending clear,191,0,1,0,0,0,0,0,0,0,0
+341,sending clear message,191,0,1,0,0,0,-1,-1,0,0,0
+342,tuesday fined,191,0,-1,-1,0,0,0,0,0,0,0
+343,important confidential,190,0,0,0,0,0,0,0,0,0,0
+344,cartel received,186,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+345,commercially important,186,0,0,0,0,0,0,0,-1,0,0
+346,commercially important confidential,186,0,0,0,0,0,0,0,0,0,0
+347,important confidential information,186,0,0,0,0,0,0,0,0,0,0
+348,whether appeal,186,0,0,0,0,0,0,0,0,0,0
+349,appeal court,185,0,1,0,0,0,0,0,0,0,0
+350,wednesday imposed,185,0,0,0,0,0,0,0,0,0,0
+351,imposed cartel,184,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+352,press release,184,0,1,0,0,0,0,0,0,0,0
+353,last night,183,0,0,0,0,0,0,0,0,0,0
+354,chip makers,180,0,0,0,0,0,0,0,0,0,0
+355,tolerate cartel,180,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+356,reduced fines,179,0,1,1,0,0,0,0,0,0,0
+357,cartel fixed,177,-1,-1,-1,-1,-1,-1,-1,-1,0,-1
+358,cartel lasted,177,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+359,clear message tolerate,176,0,1,0,0,0,0,0,0,0,0
+360,exchanged commercially,176,0,-1,0,0,0,0,0,0,0,0
+361,message tolerate,176,0,0,0,0,0,0,0,0,0,0
+362,message tolerate cartel,176,0,-1,0,0,0,0,0,0,0,0
+363,see ip,176,0,0,0,0,0,0,0,0,0,0
+364,sales involved,174,0,0,0,0,0,0,0,0,1,0
+365,take account,174,0,0,0,0,0,0,0,0,0,0
+366,granted reduction,173,0,1,1,0,0,0,0,1,0,0
+367,fined dlrs,172,0,-1,-1,0,0,0,0,0,0,0
+368,worlds biggest,171,0,1,0,0,0,0,0,0,0,0
+369,worlds largest,169,0,1,0,0,-1,0,0,0,0,0
+370,dpa finance,167,0,0,0,0,0,0,0,0,0,0
+371,fix price,167,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+372,charge competition,166,0,0,0,0,0,0,0,0,0,0
+373,fight cartels,165,0,-1,-1,0,0,0,0,0,0,0
+374,hydrogen peroxide,164,0,0,0,0,-1,0,0,0,0,0
+375,inability pay,164,0,-1,0,0,0,0,0,0,0,-1
+376,department justice,163,0,0,0,0,-1,0,-1,-1,0,0
+377,south koreas,162,0,0,0,0,0,0,0,0,0,0
+378,court instance,161,0,0,0,0,0,0,0,0,0,0
+379,fines took,161,0,-1,0,0,0,0,0,0,0,0
+380,fines took account,161,0,-1,0,0,0,-1,-1,0,0,0
+381,increased percent,161,0,1,0,0,0,-1,-1,0,0,0
+382,seek damages,161,0,-1,-1,0,0,0,-1,-1,-1,0
+383,article treaty,160,0,0,0,0,0,0,0,0,0,0
+384,fines commissions,160,0,-1,-1,0,0,0,0,0,0,0
+385,fines commissions leniency,160,0,-1,-1,0,0,0,1,0,0,1
+386,immunity fines commissions,160,0,-1,1,0,0,0,0,0,0,1
+387,largest ever,160,-1,1,0,-1,-1,-1,-1,-1,-1,-1
+388,leniency programme provide,159,0,1,0,0,0,0,0,0,0,0
+389,programme provide,159,0,1,0,0,0,0,0,0,0,0
+390,programme provide information,159,0,1,0,0,0,0,0,0,0,0
+391,sixyear period,159,0,0,0,0,0,0,0,0,0,0
+392,cartels restrictive,158,-1,-1,0,-1,-1,-1,-1,-1,-1,0
+393,took part,157,0,0,0,0,-1,-1,0,0,-1,0
+394,percent reduction,156,0,0,1,0,0,0,0,0,0,0
+395,settlement decision,156,0,1,1,0,0,0,0,0,0,0
+396,decision sending,154,0,0,0,0,0,0,0,0,0,0
+397,south korean,154,0,0,0,0,0,0,0,0,0,0
+398,unable pay,154,0,-1,0,0,0,0,0,0,0,0
+399,come forward,153,0,0,0,0,0,0,0,0,0,0
+400,fixing cartel,153,-1,-1,-1,-1,-1,-1,-1,-1,0,-1
+401,price fixing cartel,153,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+402,received full immunity,462,0,1,1,0,0,0,0,0,0,0
+403,surcharges fuel security,327,0,0,-1,0,0,0,0,0,0,0
+404,reduction leniency notice,269,0,1,1,0,0,0,0,0,0,0
+405,provide information cartel,268,0,-1,0,0,0,0,0,0,0,0
+406,fuel security without,266,0,0,0,0,0,0,0,0,0,0
+407,security without discounts,266,0,0,0,0,0,0,0,0,0,-1
+408,full immunity fines,260,0,1,1,0,0,0,0,0,0,0
+409,blew whistle cartel,252,0,-1,-1,0,0,0,0,0,0,0
+410,coordinated pricing detriment,249,-1,-1,-1,-1,-1,0,-1,-1,-1,-1
+411,deplorable many major,249,-1,0,-1,-1,0,-1,0,-1,0,-1
+412,detriment businesses consumers,249,0,-1,-1,0,0,0,0,0,0,0
+413,major coordinated pricing,249,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+414,many major coordinated,249,-1,0,-1,-1,-1,-1,-1,-1,-1,-1
+415,pricing detriment businesses,249,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+416,action surcharges fuel,238,0,0,-1,0,0,0,0,0,0,0
+417,coordinated action surcharges,232,-1,0,-1,-1,-1,-1,-1,-1,-1,-1
+418,serious nature infringement,215,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+419,restrictive business practices,206,-1,-1,-1,-1,-1,0,0,-1,-1,-1
+420,commissions leniency programme,199,0,0,0,0,0,0,0,0,0,0
+421,carriers coordinated action,197,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+422,competition commissioner statement,194,0,0,0,0,0,-1,0,-1,-1,0
+423,sending clear message,191,1,1,0,1,1,1,1,1,1,1
+424,commercially important confidential,186,0,0,0,0,0,0,0,0,0,0
+425,important confidential information,186,0,0,0,0,0,0,0,0,0,0
+426,clear message tolerate,176,0,0,0,0,0,-1,0,0,0,0
+427,message tolerate cartel,176,0,-1,0,0,0,0,0,0,0,0
+428,fines took account,161,-1,-1,1,-1,-1,-1,-1,-1,-1,-1
+429,fines commissions leniency,160,0,0,1,0,0,0,-1,0,0,0
+430,immunity fines commissions,160,0,0,1,0,0,0,-1,-1,-1,0
+431,leniency programme provide,159,0,0,0,0,0,0,0,0,0,0
+432,programme provide information,159,0,1,0,0,0,0,0,0,0,0
+433,price fixing cartel,153,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+434,cartels restrictive business,152,-1,-1,-1,-1,-1,-1,-1,0,-1,0
+435,jointly severally liable,151,0,-1,0,0,0,0,0,0,0,0
+436,decision sending clear,150,0,0,0,0,0,0,0,0,0,0
+437,granted full immunity,145,1,1,1,1,1,1,1,1,1,1
+438,exchanged commercially important,144,0,0,0,0,0,0,0,0,0,0
+439,running pricefixing cartel,143,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+440,escaped blew whistle,142,0,0,1,0,0,0,0,0,0,-1
+441,held jointly severally,142,0,-1,0,0,0,0,0,0,0,0
+442,cartel fixed prices,141,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+443,dpa finance business,141,0,0,0,0,0,0,0,0,0,0
+444,paraffin mafia cartel,137,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+445,todays decision sending,137,0,0,0,0,-1,0,0,0,-1,0
+446,commissions leniency notice,136,0,0,0,0,0,0,0,0,0,0
+447,meetings took place,136,-1,0,-1,-1,-1,-1,0,0,-1,-1
+448,tolerate cartel behaviour,136,-1,-1,-1,-1,-1,-1,0,0,0,-1
+449,household bought affected,133,0,0,0,0,0,0,0,0,0,-1
+450,probably household bought,133,0,0,0,0,0,0,0,1,0,0
+451,charge competition policy,132,0,-1,0,0,0,0,1,0,0,0
+452,taking part cartel,132,-1,-1,-1,-1,0,-1,-1,-1,0,0
+453,dynamic random access,131,0,0,0,0,-1,-1,0,0,0,0
+454,eurom eurom eurom,130,0,0,0,0,0,0,0,0,0,0
+455,investigate suspected cartels,129,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+456,revealed existence cartel,129,-1,-1,-1,-1,-1,-1,0,0,-1,0
+457,behaviour took place,127,0,0,0,0,0,0,0,0,0,0
+458,took place illegal,127,-1,-1,-1,-1,-1,-1,-1,0,-1,0
+459,magnitude studying reasons,126,0,0,0,0,0,0,1,0,0,1
+460,reasons magnitude studying,126,0,0,0,0,0,0,0,0,0,0
+461,surprised understand reasons,126,0,0,0,0,0,0,0,0,0,0
+462,understand reasons magnitude,126,0,0,0,0,0,0,0,0,0,0
+463,courts member states,122,0,0,0,0,0,0,-1,0,0,0
+464,close free investigate,121,0,1,0,0,0,0,0,0,0,0
+465,free investigate suspected,121,0,0,0,0,0,0,0,0,0,0
+466,ban cartels restrictive,120,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+467,reasons finding view,118,0,0,0,0,0,0,0,0,0,0
+468,studying reasons finding,118,0,0,0,0,0,0,0,0,0,0
+469,consumers competition commissioner,117,0,0,0,0,0,0,0,0,0,0
+470,spokesman jonathan todd,115,0,0,0,0,0,0,0,0,0,0
+471,information future production,114,0,0,0,0,0,1,0,0,0,0
+472,within economic area,114,0,0,0,0,0,0,0,0,-1,0
+473,bring longrunning investigation,113,0,0,0,0,0,0,0,0,0,0
+474,longrunning investigation close,113,0,1,1,0,0,0,0,0,0,0
+475,percent annual sales,113,0,0,0,0,0,0,0,0,0,0
+476,meetings discuss prices,111,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+477,affected paraffin mafia,110,0,0,-1,0,0,0,0,0,0,0
+478,binding proof behaviour,110,0,0,0,0,0,0,0,0,0,0
+479,bought affected paraffin,110,0,0,0,0,0,0,0,0,0,0
+480,proof behaviour took,110,0,1,0,0,0,0,0,0,0,0
+481,acknowledging cartel allowed,109,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+482,allowed bring longrunning,109,0,1,0,0,0,0,0,0,0,0
+483,cartel allowed bring,109,-1,-1,0,-1,-1,0,-1,-1,-1,-1
+484,entities within undertaking,108,0,0,0,0,0,0,1,1,0,0
+485,legal entities within,108,0,0,0,0,0,0,0,0,0,0
+486,undertaking held jointly,108,-1,-1,0,-1,0,0,0,-1,0,0
+487,within undertaking held,108,0,0,0,0,0,0,0,0,0,0
+488,cartel competition commissioner,107,0,-1,0,0,0,1,0,0,0,0
+489,costs economic damage,107,0,-1,0,0,-1,-1,0,0,0,-1
+490,held regular meetings,107,-1,0,-1,-1,-1,0,-1,0,-1,0
+491,higher costs economic,107,0,-1,0,0,0,0,0,0,0,-1
+492,mafia cartel implies,107,-1,-1,-1,-1,-1,-1,-1,-1,0,-1
+493,odds higher costs,107,0,-1,0,0,0,0,0,0,0,0
+494,paying odds higher,107,0,-1,0,0,0,-1,0,0,0,0
+495,imposed fines totaling,106,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+496,breaking competition rules,105,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+497,fined revealed existence,104,0,-1,-1,0,0,0,0,0,0,0
+498,president charge competition,104,0,-1,0,0,0,1,0,0,1,0
+499,vice president charge,104,0,-1,-1,0,-1,-1,0,0,0,-1
+500,investigation close free,103,0,0,1,0,0,0,0,0,0,0
+501,affected anticompetitive behaviour,102,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+502,breach competition rules,102,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+503,businesses consumers competition,102,0,0,0,0,0,0,-1,0,-1,0
+504,person firm affected,102,0,0,0,0,0,0,0,0,0,0
+505,televisions computer monitors,102,0,0,0,0,0,0,0,0,0,0
+506,competition commissioner told,101,0,0,0,0,0,0,0,0,0,0
+507,immunity blowing whistle,101,0,1,1,0,0,1,1,0,1,0
+508,wednesday imposed fines,101,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+509,fixed prices shared,100,-1,-1,-1,-1,-1,-1,0,-1,-1,-1
+510,operating pricefixing cartel,100,-1,-1,-1,-1,-1,-1,-1,-1,-1,0
+511,artweger cisal dornbracht,99,0,0,0,0,0,0,0,0,0,0
+512,cisal dornbracht duravit,99,0,0,0,0,0,-1,0,0,0,0
+513,dornbracht duravit duscholux,99,0,0,0,0,0,0,0,0,0,0
+514,duravit duscholux grohe,99,0,0,0,0,0,0,0,0,0,0
+515,duscholux grohe hansa,99,0,0,0,0,0,0,0,0,0,0
+516,kludi mamoli masco,99,0,0,0,0,0,0,0,0,0,0
+517,see ip memo,99,0,0,0,0,0,0,0,0,0,0
+518,cartel implies terms,98,0,-1,0,0,0,0,0,0,0,0
+519,discounts sixyear period,98,0,1,0,0,0,0,0,1,0,0
+520,implies terms paying,98,0,0,0,0,0,0,0,0,0,0
+521,terms paying odds,98,0,0,0,0,0,0,0,0,0,0
+522,without discounts sixyear,98,0,0,0,0,0,0,0,0,0,0
+523,period december february,97,0,0,0,0,0,0,0,0,0,0
+524,return immunity prosecution,97,0,0,0,0,0,0,0,0,0,0
+525,price ranges minimum,96,0,0,0,0,0,0,0,0,0,0
+526,prices exchanged information,96,0,-1,0,0,0,0,0,0,0,0
+527,ranges minimum prices,96,0,0,0,0,0,1,1,0,1,1
+528,bring matter courts,95,0,0,0,0,0,1,0,0,0,0
+529,matter courts member,95,0,0,0,0,0,0,0,0,1,0
+530,regular meetings discuss,94,-1,0,-1,-1,-1,-1,-1,-1,-1,-1
+531,sinks baths taps,94,0,0,0,0,-1,-1,0,-1,-1,-1
+532,appeal decision court,93,0,0,-1,0,0,0,-1,0,-1,-1
+533,competition commissioner joaqu,93,0,0,0,0,0,0,0,0,0,0
+534,damaging series cartels,93,-1,-1,-1,-1,-1,0,0,-1,-1,0
+535,exchanged sensitive information,93,0,0,0,0,0,0,0,0,0,0
+536,guilty price fixing,93,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+537,whole part imposed,93,0,0,0,0,0,0,0,0,0,0
+538,another milestone commissions,91,0,0,0,0,0,0,0,0,0,0
+539,account sales involved,90,0,0,-1,0,0,0,0,0,0,0
+540,allocated customers exchanged,90,0,0,-1,0,-1,0,0,0,0,0
+541,come forward information,90,0,1,0,0,0,0,0,0,0,0
+542,firm affected anticompetitive,90,0,-1,-1,0,-1,0,0,0,0,0
+543,foreign like ones,90,0,0,0,0,0,0,0,0,0,0
+544,fuel security surcharges,90,0,0,-1,0,0,0,0,-1,0,0
+545,took steps conceal,90,0,0,0,0,0,0,0,0,0,0
+546,carriers imposed rate,89,0,-1,0,0,0,0,0,0,0,0
+547,found guilty price,89,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+548,liable whole part,89,-1,-1,-1,-1,0,0,-1,-1,0,-1
+549,severally liable whole,89,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+550,cartel commissions attention,88,-1,-1,0,-1,0,-1,-1,-1,-1,-1
+551,coordinate price increases,88,-1,-1,-1,-1,0,-1,-1,-1,-1,0
+552,fined fixing prices,88,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+553,vice president competition,88,0,0,0,0,0,0,0,0,0,0
+554,called crystal meetings,87,0,0,0,0,0,0,0,0,0,0
+555,december february cartel,87,-1,-1,0,-1,-1,-1,-1,-1,0,-1
+556,colluded fix prices,86,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+557,fines take account,86,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+558,provided valuable information,86,0,0,1,0,0,-1,0,0,0,-1
+559,pay surcharges clients,85,0,0,-1,0,0,0,0,1,0,0
+560,competition rules took,84,0,0,0,0,0,0,0,0,0,0
+561,exchange sensitive information,84,0,0,-1,0,0,-1,0,0,0,0
+562,future production planning,84,0,0,0,0,0,0,0,0,0,0
+563,member states seek,84,0,0,0,0,0,0,0,-1,0,0
+564,production planning capacity,84,0,0,0,0,0,0,0,0,0,0
+565,rules took steps,84,0,0,0,0,0,0,0,0,0,0
+566,states seek damages,84,0,0,0,0,0,0,0,0,0,0
+567,awarded without reduced,83,0,0,0,0,0,0,0,0,0,0
+568,damages awarded without,83,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+569,grohe hansa ideal,83,0,0,0,0,-1,0,-1,0,0,0
+570,hansa ideal kludi,83,0,0,0,0,0,0,0,0,0,0
+571,ideal kludi mamoli,83,0,0,0,0,0,0,0,0,0,0
+572,without reduced account,83,0,0,0,0,0,0,-1,0,0,-1
+573,following information released,82,0,0,0,0,0,-1,0,0,0,0
+574,following press release,82,0,0,0,0,-1,0,-1,0,0,0
+575,issued following press,82,0,0,0,0,0,0,0,0,0,0
+576,concerned damages awarded,81,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+577,even though fined,81,-1,0,0,-1,-1,-1,-1,-1,-1,-1
+578,fined concerned damages,81,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+579,pricefixing marketsharing cartel,81,-1,-1,-1,-1,0,0,-1,-1,0,-1
+580,regulators wednesday fined,81,-1,-1,-1,-1,-1,-1,0,-1,0,-1
+581,running illegal cartel,81,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+582,though fined concerned,81,-1,-1,-1,-1,0,-1,-1,-1,-1,0
+583,charge higher prices,80,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+584,concerned serious nature,80,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+585,gmt dpa finance,80,0,0,0,0,0,0,0,0,0,0
+586,learn hard way,80,0,0,0,0,0,0,0,0,-1,0
+587,application immunity lodged,79,0,1,0,0,0,0,0,0,0,0
+588,action damages person,78,0,-1,0,0,0,0,0,0,0,0
+589,anticompetitive behaviour described,78,-1,-1,0,-1,-1,0,0,-1,0,-1
+590,bathroom equipment manufacturers,78,0,0,0,0,0,0,0,0,0,0
+591,behaviour described bring,78,0,0,0,0,0,0,0,0,0,0
+592,cases courts decision,78,0,0,0,0,0,0,0,0,0,0
+593,confirm cases courts,78,0,0,0,0,0,0,0,0,0,0
+594,construction market long,78,0,0,0,0,0,0,0,0,0,0
+595,council regulation confirm,78,0,0,0,0,0,0,0,0,0,0
+596,court council regulation,78,0,0,0,0,0,0,0,0,0,-1
+597,courts decision binding,78,0,0,0,0,0,0,0,0,0,0
+598,damages law court,78,0,-1,0,0,0,0,0,0,0,0
+599,damages person firm,78,0,-1,0,0,0,0,-1,0,0,0
+600,decision binding proof,78,0,0,0,0,0,0,0,0,0,0
+601,described bring matter,78,0,0,0,0,0,0,0,0,0,0
+602,dollars fixing prices,78,-1,-1,-1,-1,-1,0,0,0,-1,-1
+603,illegal even though,78,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+604,imposed fines totalling,78,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+605,law court council,78,0,0,0,0,0,0,0,0,0,0
+606,place illegal even,78,0,-1,-1,0,0,0,1,1,0,0
+607,regulation confirm cases,78,0,1,0,0,0,0,0,0,0,0
+608,seek damages law,78,0,-1,0,0,0,0,0,0,0,0
